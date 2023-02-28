@@ -8,3 +8,10 @@ africa
 vietnam
 }
 end
+insert
+{
+hello
+world 
+program
+}
+end
