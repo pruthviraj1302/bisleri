@@ -1,0 +1,10 @@
+insert
+{
+london
+japan
+china
+newzealand
+africa
+vietnam
+}
+end
